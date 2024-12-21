@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/wasim-akram-96950b59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasim-akram-96950b59" height="30" width="40" /></a>
 <a href="https://fb.com/wasim.akram960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wasim.akram960" height="30" width="40" /></a>
 <a href="https://instagram.com/wasim_akram239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wasim_akram239" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@recreating_drama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@recreating_drama" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@recreating_drama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@recreating_drama" height="30" width="40" /></a>
 </p>
 
 <h2 align="left"> ⚙️ Tech Stach </h2>
